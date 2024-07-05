@@ -133,8 +133,8 @@ main {
 
 .card {
     width: 360px;
-    min-height: 400px;
-    max-height: 500px;
+    min-height: 480px;
+    max-height: 480px;
     box-shadow: 0 0 4px #d4ecff;
     border-radius: 4px;
     cursor: pointer;
