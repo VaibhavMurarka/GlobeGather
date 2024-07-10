@@ -187,6 +187,13 @@ main {
     justify-content: space-evenly;
 }
 
+@media (max-width: 411px){
+    .main-nav{
+        flex-direction: column;
+        gap: 12px;
+    }
+}
+
 @media (max-width: 855px){
     #politics , #bollywood{
         display: none;
