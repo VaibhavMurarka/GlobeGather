@@ -4,11 +4,14 @@ GlobeGather is a news media application carefully designed to meet your informat
 ## Website Loaded 
 ![img1](https://github.com/VaibhavMurarka/GlobeGather/blob/main/img1(homepage).png)
 
-## can choose any topic from suggestions given on Navbar
-![img2](https://github.com/VaibhavMurarka/GlobeGather/blob/main/img2(navbar).png)
+## Mobile experience
+![img2](https://github.com/VaibhavMurarka/GlobeGather/blob/main/img4(mobile%20experience).png)
 
-## can write your topic in the Search-box given on Navbar 
-![img3](https://github.com/VaibhavMurarka/GlobeGather/blob/main/img3(searchresults).png)
+## Choose any topic from suggestions given on Navbar
+![img3](https://github.com/VaibhavMurarka/GlobeGather/blob/main/img2(navbar).png)
+
+## Write your topic in the Search-box given on Navbar 
+![img4](https://github.com/VaibhavMurarka/GlobeGather/blob/main/img3(searchresults).png)
 
 ## API used-
 https://newsapi.org/
